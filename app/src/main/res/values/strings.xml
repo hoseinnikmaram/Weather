@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="min">min: %s</string>
+    <string name="max">max: %s</string>
+    <string name="status">200</string>
+</resources>
